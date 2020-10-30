@@ -1,1 +1,1 @@
-# elementor-advanced-dynamic-content
+# More utilities on Elementor Dynamic Content
